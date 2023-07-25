@@ -1,0 +1,20 @@
+{
+    "thoughtText": "This is my first thought.",
+    "createdAt": "2023-07-26T12:30:00Z",
+    "username": "john_doe",
+    "reactions": [
+      {
+        "reactionId": "6154e3e31b0eabc312345678",
+        "reactionBody": "That's interesting!",
+        "username": "jane_smith",
+        "createdAt": "2023-07-26T12:32:00Z"
+      },
+      {
+        "reactionId": "6154e3e31b0eabc312345679",
+        "reactionBody": "I agree!",
+        "username": "bob_johnson",
+        "createdAt": "2023-07-26T12:35:00Z"
+      }
+    ]
+  }
+  

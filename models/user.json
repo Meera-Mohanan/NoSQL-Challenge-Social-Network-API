@@ -1,0 +1,14 @@
+{
+    "username": "john_doe",
+    "email": "john@example.com",
+    "thoughts": [
+      "6154e3e31b0eabc312345678",  // ObjectId references to Thought documents
+      "6154e3e31b0eabc312345679",
+      "6154e3e31b0eabc312345680"
+    ],
+    "friends": [
+      "6154e3e31b0eabc312345681",  // ObjectId references to other User documents
+      "6154e3e31b0eabc312345682"
+    ]
+  }
+  
