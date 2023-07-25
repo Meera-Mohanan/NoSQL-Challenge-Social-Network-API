@@ -18,3 +18,63 @@
     ]
   }
   
+  {
+    "thoughtText": "Enjoying a beautiful sunset.",
+    "createdAt": "2023-07-27T18:15:00Z",
+    "username": "sunset_lover",
+    "reactions": [
+      {
+        "reactionId": "6154e3e31b0eabc312345680",
+        "reactionBody": "Absolutely stunning!",
+        "username": "nature_guru",
+        "createdAt": "2023-07-27T18:18:00Z"
+      },
+      {
+        "reactionId": "6154e3e31b0eabc312345681",
+        "reactionBody": "Wish I could be there!",
+        "username": "wanderlust_adventurer",
+        "createdAt": "2023-07-27T18:20:00Z"
+      }
+    ]
+  }
+  
+  {
+    "thoughtText": "Excited for the weekend!",
+    "createdAt": "2023-07-28T09:45:00Z",
+    "username": "weekend_warrior",
+    "reactions": [
+      {
+        "reactionId": "6154e3e31b0eabc312345682",
+        "reactionBody": "Me too! Let's have fun!",
+        "username": "party_animal",
+        "createdAt": "2023-07-28T09:50:00Z"
+      },
+      {
+        "reactionId": "6154e3e31b0eabc312345683",
+        "reactionBody": "Weekend vibes!",
+        "username": "relaxation_station",
+        "createdAt": "2023-07-28T09:55:00Z"
+      }
+    ]
+  }
+  
+  {
+    "thoughtText": "Coding is fun!",
+    "createdAt": "2023-07-29T14:20:00Z",
+    "username": "code_enthusiast",
+    "reactions": [
+      {
+        "reactionId": "6154e3e31b0eabc312345684",
+        "reactionBody": "Absolutely agree!",
+        "username": "code_ninja",
+        "createdAt": "2023-07-29T14:22:00Z"
+      },
+      {
+        "reactionId": "6154e3e31b0eabc312345685",
+        "reactionBody": "Coding is life!",
+        "username": "dev_guru",
+        "createdAt": "2023-07-29T14:25:00Z"
+      }
+    ]
+  }
+  

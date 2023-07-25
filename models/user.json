@@ -2,13 +2,53 @@
     "username": "john_doe",
     "email": "john@example.com",
     "thoughts": [
-      "6154e3e31b0eabc312345678",  // ObjectId references to Thought documents
+      "6154e3e31b0eabc312345678", 
       "6154e3e31b0eabc312345679",
       "6154e3e31b0eabc312345680"
     ],
     "friends": [
-      "6154e3e31b0eabc312345681",  // ObjectId references to other User documents
+      "6154e3e31b0eabc312345681",  
       "6154e3e31b0eabc312345682"
+    ]
+  }
+  
+  {
+    "username": "alice_smith",
+    "email": "alice@example.com",
+    "thoughts": [
+      "6154e3e31b0eabc312345683", 
+      "6154e3e31b0eabc312345684"
+    ],
+    "friends": [
+      "6154e3e31b0eabc312345678", 
+      "6154e3e31b0eabc312345681",
+      "6154e3e31b0eabc312345682"
+    ]
+  }
+  {
+    "username": "bob_johnson",
+    "email": "bob@example.com",
+    "thoughts": [
+      "6154e3e31b0eabc312345685", 
+      "6154e3e31b0eabc312345686",
+      "6154e3e31b0eabc312345687",
+      "6154e3e31b0eabc312345688"
+    ],
+    "friends": [
+      "6154e3e31b0eabc312345679", 
+      "6154e3e31b0eabc312345680",
+      "6154e3e31b0eabc312345683",
+      "6154e3e31b0eabc312345684"
+    ]
+  }
+  
+  {
+    "username": "emma_green",
+    "email": "emma@example.com",
+    "thoughts": [],
+    "friends": [
+      "6154e3e31b0eabc312345678", 
+      "6154e3e31b0eabc312345679"
     ]
   }
   
