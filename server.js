@@ -1,9 +1,13 @@
 const express = require('express');
+// const bodyParser = require('body-parser');
 
 const db = require('./config/connection');
 const routes = require('./routes');
 
 const app = express();
+// Parse JSON data
+// app.use(bodyParser.json());
+
 const PORT = process.env.PORT || 3001;
 
 app.use(express.json());
