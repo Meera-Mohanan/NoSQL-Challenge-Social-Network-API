@@ -36,7 +36,7 @@
 
 
 ## License  
-* This application is licensed under : MIT License
+* This application is licensed under :![MIT License](https://shields.io/badge/license-MIT-yellow)
 
 ## Contributors
 Meera Mohanan
